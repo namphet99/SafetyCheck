@@ -1,0 +1,11 @@
+Gmail
+user : safety.check52
+password : safetycheck-52
+
+
+ณัฐนนท์
+safety.check52@gmail.com
+
+Google Drive ID: 1G9wg-k8nsQtd2H1hTz1x5N14FOZ5a0BL
+Google Sheet ID: 1KGlS8dHyozOIYysui8rk-NpfzCD1HThqoK32tyYC46k
+Google App Script URL: https://script.google.com/macros/s/AKfycby1LFk8hv5chbTndsYnq4e-gum0x5kvNFQzmD8dPn_RKWkbB4cgsFQTUpeypsdD8xE4/exec
